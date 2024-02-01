@@ -1,0 +1,214 @@
+div {
+    padding-bottom: 5px;
+}
+
+.tahoma {
+    font-family: Tahoma;
+    font-weight: 600;
+}
+
+.arial {
+    font-family: Arial;
+    font-weight: 600;
+}
+
+.arial-red {
+    color: red;
+    font-style: italic;
+}
+
+.verdana-title {
+    font-family: Verdana;
+    font-weight: 600;
+    margin: 0;
+}
+
+.verdana-header {
+    font-family: Verdana;
+    font-weight: 600;
+    margin-bottom: 1px;
+}
+
+.verdana-subheader {
+    margin: 0;
+    color: rgb(186, 186, 186);
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.verdana-description {
+    font-family: Verdana;
+    width: 230px;
+    font-size: 12px;
+}
+
+.get-started {
+    background-color: green;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 90px;
+    cursor: pointer;
+}
+
+.d {
+    width: 350px;
+}
+
+.arial-title {
+    font-family: Arial;
+    font-weight: 600;
+}
+
+.arial-header {
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+}
+
+.arial-description {
+    font-family: Arial;
+    text-align: center;
+}
+
+.learn-more {
+    color: rgb(75, 75, 255);
+    text-align: center;
+    cursor: pointer;
+}
+
+.e {
+    width: 400px;
+    text-align: center;
+}
+
+.e-title {
+    font-weight: 600;
+    text-align: left;
+}
+
+.e, 
+.new,
+.macbook-pro,
+.supercharged,
+.e-price,
+.buy {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: arial;
+}
+
+.new {
+    color: red;
+    font-weight: 600;
+    text-align: center;
+}
+
+.macbook-pro {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.supercharged {
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+}
+
+.e-price {
+    text-align: center;
+}
+
+.buy {
+    background-color: rgb(54, 148, 255);
+    border: none;
+    color: white;
+    border-radius: 20px;
+    font-weight: 600;
+    height: 30px;
+    width: 50px;
+    
+    
+}
+
+.f,
+.f-title,
+.price,
+.usd,
+.percentage,
+.after-hours {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.f-title {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.price {
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+.usd {
+    font-weight: 100;
+    font-size: 15px;
+    color: grey;
+}
+
+.percentage {
+    color: green;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.after-hours {
+    color: grey;
+    font-size: 15px;
+}
+
+.red {
+    color: red;
+    font-size: 15px;
+}
+
+.g,
+.g-title,
+.site,
+.handle,
+.handle2 {
+    font-family: arial;
+    width: 500px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.g {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.g-title {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.site {
+    font-weight: 600;
+    margin-bottom: 0%;
+}
+
+.handle {
+    font-weight: 100;
+    color: grey;
+}
+
+.handle2 {
+    color: rgb(26, 192, 252);
+}
